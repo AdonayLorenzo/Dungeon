@@ -6,6 +6,10 @@ Welcome to Dungeon, a text-based adventure game written in Java where players co
 
 Dungeon is a simple yet engaging game where players navigate through a series of encounters with enemies, making decisions to attack or defend themselves. The game features random events, such as encountering new enemies with varying stats and the possibility of receiving stat upgrades after defeating enemies.
 
+I created this "game" to learn about clases in java, try to code in it and have experience, any advice its welcome.
+
+Thx for trying it :)
+
 ## Features
 
 - **Character Creation**: Players can create their own character by providing a name and starting stats for HP, damage, and shield.
@@ -33,4 +37,4 @@ This project was authored by Adonay Lorenzo.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is Creative Commons, so you can take it if you want.
